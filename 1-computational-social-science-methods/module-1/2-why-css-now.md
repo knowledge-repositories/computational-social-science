@@ -11,22 +11,21 @@ It is worth noting that evolutionary theory states that every time something maj
 #### A Very Simplistic Hierarchy of Science
 
 ```text
-        /\
-       /  \
-      /    \
-     / Tech \
-    /________\
-   /          \
-  /   Social   \
- /______________\
-/                \
-
-|    Biology     |
-|________________|
-|                |
-|   Chemistry    |
-|________________|
-|                |
-|    Physics     |
-\________________/
+                /\
+               /  \
+              /    \
+             / Tech \
+            /________\
+           /          \
+          /   Social   \
+         /______________\
+        /                \
+       /     Biology      \
+      /____________________\
+     /                      \
+    /       Chemistry        \
+   /__________________________\
+  /                            \
+ /           Physics            \
+/________________________________\
 ```
