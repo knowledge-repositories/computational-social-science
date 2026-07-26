@@ -10,11 +10,21 @@ It is worth noting that evolutionary theory states that every time something maj
 
 #### A Very Simplistic Hierarchy of Science
 
-```mermaid
-graph TD
-    A[Top Level] --> B1[Middle Left]
-    A --> B2[Middle Right]
-    B1 --> C1[Biology]
-    B1 --> C2[Chemistry]
-    B2 --> C3[Physics]
-```
+       / \
+      /   \
+     /Tech \
+    /_______\
+
+/ \
+ / Social \
+ /******\_******\
+/ \
+
+| Biology |
+|******\_\_\_******|
+| |
+| Chemistry |
+|******\_\_\_******|
+| |
+| Physics |
+\_******\_\_******/
