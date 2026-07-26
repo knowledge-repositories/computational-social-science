@@ -29,3 +29,13 @@ It is worth noting that evolutionary theory states that every time something maj
  /           Physics            \
 /________________________________\
 ```
+
+Society is based on humans, who are multicellular organisms based on cells, which are based on molecules, which are based on particles, and on each one of these levels, a different level of **emergence** happens; that's why chemistry isn't simply applied physics and social science isn't simply applied biology.
+
+#### Social Emergence
+
+> Social emergence is the macro-level phenomenon that arises from micro-level individual interactions, that is characterized by nonlinear dynamics where the collective whole possesses properties distinct from its parts.
+
+- **micro-to-macro links:** individual behaviors, simple rules, or localized decisions scale up to form large societal patterns;
+- **nonlinearity:** small changes at the individual level can trigger massive, unexpected shifts in collective behavior (tipping points);
+- **irreducibility:** the collective outcome cannot be predicted simply by summing up or looking at isolated individuals.
